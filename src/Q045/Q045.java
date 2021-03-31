@@ -1,6 +1,7 @@
 package Q045;
 
 public class Q045 {
+
     /*
     Which two describe reasons to modularize the JDK? (Choose two.)
 A. easier to understand the Java language

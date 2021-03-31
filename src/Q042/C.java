@@ -2,6 +2,7 @@ package Q042;
 
 public class C extends B implements A {
     /* position 3 */
+
 }
 
 /*
