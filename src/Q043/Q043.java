@@ -8,6 +8,7 @@ public class Q043 {
         Supplier<Integer> foo = () -> i;
         i++;
         System.out.println(foo.get());
+
     }
 }
 
