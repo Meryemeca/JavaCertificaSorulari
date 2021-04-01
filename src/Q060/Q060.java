@@ -6,7 +6,7 @@ public interface Q060 {
 	final void methodG() {System.out.println("G");}
 	private abstract void methodC();
 	public String methodD();
-	public int x;
+	public int xex;
 	final void methodE();
 	public void MethofF() {
 		System.out.println("F");
