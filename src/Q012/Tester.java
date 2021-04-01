@@ -14,8 +14,10 @@ public static void main(String[] args) {
 	System.out.println(t1.x+","+t1.y);
     System.out.println(t2.x+" "+Tester.y);
     System.out.println(t2.x+","+t1.y);
+    
 }
 }
+
 /*What is the result?
 A. 2,34,34,5 
 B. 2,34,54,5 

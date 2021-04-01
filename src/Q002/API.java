@@ -1,6 +1,6 @@
 package Q002;
 
-public interface  API {
+public intreface   API {
 public void chekcedValue(Object value) throws IllegalArgumentException;
 
 public boolean isValueNumber(Object val) {

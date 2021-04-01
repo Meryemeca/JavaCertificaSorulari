@@ -7,8 +7,12 @@ int cCount;
 int gCount;
 
  DNASynth(int a,int tCount,int c,int g) {
-	//line 1
-	 
+	 setCCount(c) = cCount;
+	 cCount = setCCount(c);
+	 tCount = tCount;
+	 setGCount(g);
+	 cCount = setCCount(c);
+	 aCount = a;
 }
  
  int setCCount(int c) {
