@@ -1,5 +1,6 @@
 package Q065.test;
 
+
 public class Tester {
     public static void main(String[] args) {
         Diary d=new Diary();

@@ -1,6 +1,6 @@
 package Q065.test;
 
-import java.time.LocalDate;
+import java.time.*;
 
 public class Diary {
     private LocalDate now= LocalDate.now();

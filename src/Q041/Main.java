@@ -9,6 +9,7 @@ import static java.time.DayOfWeek.TUESDAY;
 public class Main {
     public static void main(String[] args) {
         var today = LocalDate.now().with(TUESDAY).getDayOfWeek();
+        System.out.println(today);
         switch (today) {
             case SUNDAY:
             case SATURDAY:

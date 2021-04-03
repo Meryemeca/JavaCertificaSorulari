@@ -10,7 +10,7 @@ public class Over {
 		System.out.println("I am an long array");
 	}
 	
-	public void analyze(Object o) {
+public void analyze(Object o) {
 		System.out.println("I am an object");
 	}
 

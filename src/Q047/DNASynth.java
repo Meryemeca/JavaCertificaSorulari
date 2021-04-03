@@ -14,14 +14,17 @@ public class DNASynth {
     int setCCount(){
         return cCount;
     }
-    int setGCount(int gCount){
+    int setGCount(int g){
         gCount=g;
         return gCount;
     }
 
     void setAllCounts(int x){
-        aCount=tCount=this.cCount=setCCount(x);
+        aCount=tCount=this.cCount=setGCount(x);
     }
+  
+		
+	
 
 }
 

@@ -4,8 +4,11 @@ public class Question {
     public static void main(String[] args) {
         int x=0;
         do {
+        	
             x++;
+          
             if (x == 1) {
+            
                 continue;
             }
             System.out.println(x);
@@ -25,3 +28,4 @@ D. The program prints nothing. E. It prints 1 in the infinite loop.
 
 Answer: D
  */
+
