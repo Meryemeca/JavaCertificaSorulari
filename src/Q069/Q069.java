@@ -9,8 +9,8 @@ public class Q069 {
 		List<Integer>even=List.of();
 		
 		even.add(0,-1);
-		even.add(1,-2);
-		even.add(2,-3);
+		even.add(0,-2);
+		even.add(0,-3);
 		System.out.println(even);
 
 	}
@@ -24,7 +24,7 @@ C. [-3, -2, -1]
 D. A runtime exception is thrown.
 
 *
-*Cevap D.  List.of() 
+*Cevap D.  List.of() demek Returns an unmodifiable list containing zero elements. bu yuzden cevap D
 
 *
 */

@@ -1,6 +1,10 @@
 package Q005;
 
 public class Q005 {
+
+    public static void main(String[] args) {
+        System.out.println("ozlem");
+    }
 /*
  * Which two statements are true about the modular JDK? (Choose two.)
 A. The foundational APIs of the Java SE Platform are found in the java.base module.
